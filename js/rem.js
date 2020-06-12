@@ -6,7 +6,7 @@
     // console.log('pageWidth ==> ', pageWidth);
 
     //以iphone6为标准屏进行设置rem，设置html的font-size: 100px; 换句话说：在iphone6: 1rem = 100px
-    let baseWidth = 375;
+    let baseWidth = 380;
 
     let fontSize = pageWidth / baseWidth * 100;
 
